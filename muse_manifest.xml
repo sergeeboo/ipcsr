@@ -1,0 +1,104 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="IPCSR.CM" resolutions="1x" timestamp="1664527282724">
+  <folder name="css">
+    <file name="site_global.css" crc="3823340245"/>
+    <file name="master_a-master.css" crc="3881567812" ref="formations:en-savoir-plus:cours:index:services:epreuves"/>
+    <file name="formations.css" crc="102109792" ref="formations"/>
+    <file name="en-savoir-plus.css" crc="102109792" ref="en-savoir-plus"/>
+    <file name="cours.css" crc="86032467" ref="cours"/>
+    <file name="index.css" crc="400982498" ref="index"/>
+    <file name="services.css" crc="102109792" ref="services"/>
+    <file name="epreuves.css" crc="4166378632" ref="epreuves"/>
+  </folder>
+  <folder name="assets">
+    <file name="a-avril-21.pdf" crc="4245001447" seo="true" mt="1648045130000"/>
+    <file name="a-july-21.pdf" crc="513349042" seo="true" mt="1648045213000"/>
+    <file name="a-dec-21.pdf" crc="196876895" seo="true" mt="1648045125000"/>
+    <file name="c-mars-21.pdf" crc="3900460009" seo="true" mt="1648045269000"/>
+    <file name="c-july-21.pdf" crc="3966885599" seo="true" mt="1648045274000"/>
+    <file name="c-oct-21.pdf" crc="4235046762" seo="true" mt="1648045281000"/>
+    <file name="c-dec-21.pdf" crc="4135567932" seo="true" mt="1648045294000"/>
+    <file name="cemac---reglement-2001-04-code-de-la-route.pdf" crc="3950021672" seo="true" mt="1648045151000"/>
+    <file name="elements_mobiles.pdf" crc="458271817" seo="true" mt="1648046508000"/>
+    <file name="formation-secourisme-drpck.pdf.pdf" crc="4078249968" seo="true" mt="1648045090000"/>
+    <file name="recueil-des-textes-en-vigueur-en-matière-de-prévention-et-de-securite-routiere-au-cameroun.pdf" crc="3921479086" seo="true" mt="1648046389000"/>
+    <file name="les_divers_elements_amovibles_constituant_une_carrosserie.pdf" crc="3969326400" seo="true" mt="1648046534000"/>
+    <file name="convention-cmr-tchad.pdf" crc="522451745" seo="true" mt="1648046420000"/>
+    <file name="convention_cameroun_rca.pdf" crc="200189760" seo="true" mt="1648045402000"/>
+    <file name="support-de-cours-civisme-et-morale.pdf" crc="3989936300" seo="true" mt="1648046250000"/>
+    <file name="syllabus-du-cours-de-psychopedagoisserr.pdf" crc="4281206830" seo="true" mt="1648046577000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="museutils.js" crc="4190794036" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="whatinput.js" crc="84559013" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="webpro.js" crc="488283310" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:index:phone>formation"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="phone>index:phone>epreuves:phone>cours:phone>services:phone>formation"/>
+    <file name="jquery.watch.js" crc="349565855" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="phone>index:tablet>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>epreuves:phone>cours:phone>services:tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus:phone>formation"/>
+    <file name="pie.js" crc="3827607177" ref="phone>epreuves:tablet>epreuves:epreuves:cours:phone>cours:tablet>cours"/>
+    <file name="museredirect.js" crc="3985760531" ref="tablet>index:tablet>epreuves:tablet>cours:tablet>formations:tablet>services:tablet>en-savoir-plus:index:services:epreuves:cours:formations:en-savoir-plus"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3931187594" ref="phone>index:phone>cours"/>
+    <file name="pinterest.png" crc="4214682508" ref="phone>index:tablet>index:index:phone>cours:tablet>cours:cours"/>
+    <file name="facebook.png" crc="317936629" ref="phone>index:tablet>index:index:phone>cours:tablet>cours:cours"/>
+    <file name="d58e1a16ba0f77bedf8daafc8ad0c940_l.jpg" crc="206999425" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="examen-pratique-du-permis-de-conduire-min.jpg" crc="445843093" seo="true" ref="phone>index"/>
+    <file name="examen-du-permis-de-conduire-juin-2020_1.jpg" crc="4063531295" seo="true" ref="phone>index"/>
+    <file name="img-20220428-wa0261-1024x681.jpg" crc="456582944" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="psx_20211207_122549-u2966-fr.jpg" crc="4036575565" ref="phone>index"/>
+    <file name="twitter.png" crc="4102706121" ref="tablet>index:index:tablet>cours:cours"/>
+    <file name="examen-pratique-du-permis-de-conduire-min-crop-u3852.jpg" crc="4039714054" ref="tablet>index"/>
+    <file name="img-20220428-wa0261-1024x681-crop-u3854.jpg" crc="4095823650" ref="tablet>index"/>
+    <file name="profile_images_1001051654052044800_uiiverps-crop-u3858.jpg" crc="501303349" ref="tablet>index"/>
+    <file name="psx_20211207_122549.jpg" crc="3956792499" ref="tablet>index:index"/>
+    <file name="examen-pratique-du-permis-de-conduire-min-crop-u3455.jpg" crc="4039714054" ref="index"/>
+    <file name="img-20220428-wa0261-1024x681-crop-u3475.jpg" crc="4095823650" ref="index"/>
+    <file name="profile_images_1001051654052044800_uiiverps-crop-u3495.jpg" crc="501303349" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="411399404" ref="tablet>services:tablet>en-savoir-plus:tablet>index:tablet>epreuves:tablet>cours:tablet>formations"/>
+      <file name="services.css" crc="220315171" ref="tablet>services"/>
+      <file name="en-savoir-plus.css" crc="220315171" ref="tablet>en-savoir-plus"/>
+      <file name="index.css" crc="4189815800" ref="tablet>index"/>
+      <file name="epreuves.css" crc="362362783" ref="tablet>epreuves"/>
+      <file name="cours.css" crc="3778313861" ref="tablet>cours"/>
+      <file name="formations.css" crc="220315171" ref="tablet>formations"/>
+    </folder>
+    <file name="index.html" crc="17315843" seo="true" mt="1664526520751" redirect="true"/>
+    <file name="epreuves.html" crc="3813302466" seo="true" mt="1664526520751" redirect="true"/>
+    <file name="cours.html" crc="4048543171" seo="true" mt="1664527235181" redirect="true"/>
+    <file name="formations.html" crc="3827187077" seo="true" mt="1664527046872" redirect="true"/>
+    <file name="services.html" crc="3971767006" seo="true" mt="1664526520751" redirect="true"/>
+    <file name="en-savoir-plus.html" crc="3765189183" seo="true" mt="1664526520751" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4277784257" ref="phone>services:phone>index:phone>epreuves:phone>cours:phone>formation"/>
+      <file name="services.css" crc="4095737652" ref="phone>services"/>
+      <file name="index.css" crc="96146387" ref="phone>index"/>
+      <file name="epreuves.css" crc="428699871" ref="phone>epreuves"/>
+      <file name="cours.css" crc="3809308286" ref="phone>cours"/>
+      <file name="formation.css" crc="4095737652" ref="phone>formation"/>
+    </folder>
+    <file name="index.html" crc="397350839" seo="true" mt="1664527078438" redirect="true"/>
+    <file name="epreuves.html" crc="73214206" seo="true" mt="1664527078438" redirect="true"/>
+    <file name="cours.html" crc="4257043150" seo="true" mt="1664527250635" redirect="true"/>
+    <file name="services.html" crc="403720429" seo="true" mt="1664527078438" redirect="true"/>
+    <file name="formation.html" crc="243379371" seo="true" mt="1664527078438" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4266469613" seo="true" mt="1664526753861" redirect="true"/>
+  <file name="services.html" crc="453288573" seo="true" mt="1664526753861" redirect="true"/>
+  <file name="epreuves.html" crc="93462211" seo="true" mt="1664526753861" redirect="true"/>
+  <file name="cours.html" crc="3787092192" seo="true" mt="1664527216600" redirect="true"/>
+  <file name="formations.html" crc="3847422805" seo="true" mt="1664527046872" redirect="true"/>
+  <file name="en-savoir-plus.html" crc="332497548" seo="true" mt="1664526753861" redirect="true"/>
+</manifest>
